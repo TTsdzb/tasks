@@ -5,7 +5,7 @@
   android:configure="org.tasks.widget.WidgetConfigActivity"
   android:widgetFeatures="reconfigurable|configuration_optional"
   android:targetCellHeight="2"
-  android:targetCellWidth="2"
+  android:targetCellWidth="4"
   android:initialKeyguardLayout="@layout/scrollable_widget"
   android:initialLayout="@layout/scrollable_widget"
   android:minHeight="40dp"
